@@ -1,5 +1,9 @@
-<img width="1920" height="1020" alt="Screenshot 2025-11-29 101847" src="https://github.com/user-attachments/assets/3415c457-b1fb-4e8a-8ddd-79cd9046de6a" /># 🎵 Song Popularity Prediction – End‑to‑End ML Project
+ # 🎵 Song Popularity Prediction – End‑to‑End ML Project
 A full end-to-end machine learning system that predicts song popularity using audio, platform & engagement features.
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-29 101847" src="https://github.com/user-attachments/assets/3415c457-b1fb-4e8a-8ddd-79cd9046de6a" />
+
+---
 
 ## 📌 Project Overview
 
@@ -15,7 +19,6 @@ Why it's useful:
 ✔ Shows which metrics influence viral success
 ✔ Deployable as a microservice for internal teams
 
-<img width="1920" height="1020" alt="Screenshot 2025-11-29 101847" src="https://github.com/user-attachments/assets/92ea2c17-02ff-4d7b-9fb4-53f41a169c46" />
 
 <img width="1920" height="1020" alt="Screenshot 2025-11-29 101912" src="https://github.com/user-attachments/assets/fc9da6bb-8a5b-4aa1-a9c6-13535993a970" />
 
